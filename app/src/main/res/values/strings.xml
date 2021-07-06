@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">c346_assignment</string>
+    <string name="Website">Website</string>
+    <string name="ItemListActivity">ItemListActivity</string>
+    <string name="Product">Product</string>
+    <string name="Expiry_Date">Expiry Date YYYY-M-D</string>
+    <string name="Add">Add</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+    <string-array name="spinnerItems">
+        <item>1 month</item>
+        <item>3 month</item>
+        <item>6 month</item>
+    </string-array>
+    <string name="Index">Index</string>
+</resources>
